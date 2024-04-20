@@ -1,0 +1,8 @@
+.header-nav {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  width: 100%;
+  background-color: blue;
+  padding: 20px;
+}
